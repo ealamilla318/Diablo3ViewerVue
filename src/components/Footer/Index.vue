@@ -43,7 +43,7 @@ export default {
         {
           classes: ['fab', 'github'],
           color: '#e4e4e4',
-          href: 'https://github.com/baumannzone'
+          href: 'https://github.com/ealamilla318/Diablo3ViewerVue'
         },
         {
           classes: ['fab', 'font-awesome'],

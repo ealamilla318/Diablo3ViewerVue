@@ -4,7 +4,7 @@
       <b-navbar toggleable="lg" type="dark" variant="dark">
         <b-navbar-brand :to="{ name: 'Home' }">
           <img src="@/assets/img/diablo-iii.svg" alt="D3" width="30" />
-          <span class="font-diablo ml-2">D3PF</span>
+          <span class="font-diablo ml-2">D3BP</span>
         </b-navbar-brand>
       </b-navbar>
     </div>

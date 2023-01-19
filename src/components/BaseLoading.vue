@@ -1,5 +1,5 @@
 <template>
-    <div class="loading-wrapper text-center py-5">
+    <div class="loading-wrapper text-center py-5 d-flex justify-center align-center flex-column">
         <div class="spinner-wrapper w-100">
             <b-spinner class="spinner" label="Loading..."
             :type="type" :variant="variant"
