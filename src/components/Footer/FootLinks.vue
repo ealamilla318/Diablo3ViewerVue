@@ -2,7 +2,7 @@
   <div>
     <b-nav small align="start">
       <b-nav-item :to="{ name: 'Home' }">Home</b-nav-item>
-      <b-nav-item :to="{ name: 'About' }">About</b-nav-item>
+      <b-nav-item :to="{ name: 'About' }">Acerca De</b-nav-item>
       <b-nav-item
         href="https://github.com/ealamilla318/Diablo3ViewerVue"
         target="_blank"

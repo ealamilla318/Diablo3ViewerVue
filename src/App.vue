@@ -26,6 +26,9 @@ export default {
     ...mapState('loading', {
       isLoading: 'isLoading'
     })
+  },
+  mounted () {
+    document.title = 'Diablo 3'
   }
 }
 </script>

@@ -34,7 +34,7 @@
             </b-form-select>
           </b-form-group>
           <div class="d-flex justify-content-end mt-5">
-            <button type="submit" variant="primary" size="lg">Enviar</button>
+            <b-button type="submit" variant="primary" size="lg">Submit</b-button>
           </div>
         </b-form>
       </div>
